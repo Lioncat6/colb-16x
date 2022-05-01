@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A Colaboration Between Talented planetminecraft Bedrock Pack Creators Including: §9§lMazinMark&r, §2§lLioncat6 §r& §l§cHuSsEbRaHiM. Level up your minecraft expierence with a brand new medevil texture pack",
+        "name": "colb-16x",
+        "uuid": "c6597212-0d44-4414-a018-58c3a434e1eb",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 10 ]
+    },
+    "modules": [
+        {
+            "description": "A Colaboration Between Talented planetminecraft Bedrock Pack Creators Including: §9§lMazinMark&r, §2§lLioncat6 §r& §l§cHuSsEbRaHiM. Level up your minecraft expierence with a brand new medevil texture packk",
+            "type": "resources",
+            "uuid": "1f8f86a1-e732-4367-98cb-5ff471d26d3b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
